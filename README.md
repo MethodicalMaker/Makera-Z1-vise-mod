@@ -1,5 +1,7 @@
 # Makera Z1 vise mod
-A fusion360 project to fix the issues with the Makera low profile vise for the Z1 mill
+A fusion360 project to fix the issues with the Makera low profile vise for the Z1 mill.
+
+This mod will add new bolt holes so you don't have to take the fixed jaw off to install or remove the vise, and it moves the dowel pin holes so the vise sits in the middle of the machines work area. After performing the mod, i took measurements and it was only 0.002mm off over a 50mm distance, so you still get quite a lot of accuracy!
 
 Place two dowel pins into the machine bed as shown in the image below
 
